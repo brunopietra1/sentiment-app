@@ -1,0 +1,11 @@
+Flask==2.3.2
+transformers==4.28.1
+tokenizers==0.13.3
+torch==2.6.0
+scikit-learn>=1.4.2
+peewee==3.17.0
+python-dotenv==1.0.0
+gunicorn==20.1.0
+psycopg2-binary==2.9.9
+setuptools>=65
+wheel>=0.40
